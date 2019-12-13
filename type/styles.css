@@ -1,0 +1,16 @@
+/* Type */
+body {
+	text-orientation: mixed;
+	background-color: #191970;
+	color: #CC00FF;
+	font-family: Fantasy;
+	line-height: 0em;
+    font-size: 5em;
+    letter-spacing: 5em;
+}
+.new-color {
+	color: #FF00CC;
+}
+.other-font {
+	font-family: Monospace;
+}
